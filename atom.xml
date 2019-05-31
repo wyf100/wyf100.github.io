@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>夏午心晴&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wyf100.github.io/"/>
+  <updated>2019-05-31T17:46:40.420Z</updated>
+  <id>https://wyf100.github.io/</id>
+  
+  <author>
+    <name>夏午心晴 | u0</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start From Here</title>
+    <link href="https://wyf100.github.io/2019-06-01/Start-From-Here/"/>
+    <id>https://wyf100.github.io/2019-06-01/Start-From-Here/</id>
+    <published>2019-05-31T16:00:00.000Z</published>
+    <updated>2019-05-31T17:46:40.420Z</updated>
+    
+    <content type="html"><![CDATA[<p>六个一快乐，Hello World！</p><a id="more"></a><p>一直有写些东西的想法，前些年还有在CSDN写过几篇blog，后来也不知不觉的搁置了，一直拖延到现在，希望这次能坚持下去。<br>不得不说这一年里经历了一些事后，也就越发觉得该改掉这拖延恶习，人生太短了，耗不起，借着这六个一的好日子，祝愿我们的生活里满是欢声笑语。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;六个一快乐，Hello World！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="流水帐" scheme="https://wyf100.github.io/tags/%E6%B5%81%E6%B0%B4%E5%B8%90/"/>
+    
+  </entry>
+  
+</feed>
