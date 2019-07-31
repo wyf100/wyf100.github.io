@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://u0u.fun/"/>
-  <updated>2019-07-12T09:26:17.734Z</updated>
+  <updated>2019-07-21T03:30:53.588Z</updated>
   <id>https://u0u.fun/</id>
   
   <author>
@@ -15,24 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>TCP/IP OSI七层模型</title>
-    <link href="https://u0u.fun/2019-07-12/TCP-IP/"/>
-    <id>https://u0u.fun/2019-07-12/TCP-IP/</id>
-    <published>2019-07-12T07:39:39.000Z</published>
-    <updated>2019-07-12T09:26:17.734Z</updated>
-    
-    <content type="html"><![CDATA[<p>&lt;转&gt; 之前收藏的TCP/IP OSI七层模型</p><a id="more"></a><p><img src="/2019-07-12/TCP-IP/OSI%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B.gif" alt></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&amp;lt;转&amp;gt; 之前收藏的TCP/IP OSI七层模型&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Yestoday is lost day</title>
